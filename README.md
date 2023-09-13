@@ -1,16 +1,2 @@
-# flutter_application_1
+RedFork is a unique cross-platform application that has been specifically designed to address the issue of food and resource scarcity in communities. Built using a dynamic combination of Flutter and Firebase, RedFork functions as a community marketplace, where users can conveniently list any surplus resources they possess. From surplus produce in their gardens to unused household items, users can easily add any excess resources that they possess to the app's database. Thanks to the application's live database, individuals who require these same resources can easily access them. This allows for a smooth exchange of goods and promotes the responsible utilization of resources. In summary, RedFork is a potent solution that bridges the gap between those with excess resources and individuals who require them.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
